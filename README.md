@@ -63,7 +63,6 @@ To set up and run this calculator web app locally, follow these steps:
 This project uses the following technologies:
 
 - PHP
-- HTML
 - CSS
 
 <a name="features"></a>
