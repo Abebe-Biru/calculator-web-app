@@ -87,4 +87,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <a name="credits"></a>
 ## Credits
 
-This project was created by [Abebe Biru](https://linkedin.com/abebe-biru).
+This project was created by [Abebe Biru](https://www.linkedin.com/in/abebe-biru/).
