@@ -18,21 +18,21 @@ A versatile web application built with PHP that allows users to perform various 
 
 To set up and run this calculator web app locally, follow these steps:
 
-1. Clone this repository to your local machine by using:
+1.Clone this repository to your local machine by using:
 
 ```bash
 git clone https://github.com/Abebe-Biru/calculator-web-app.git
 ```
 
-2. Ensure you have PHP installed on your machine. If you dont, you can download and install [https://www.php.net/downloads.php](https://www.php.net/downloads.php).
+2.Ensure you have PHP installed on your machine. If you dont, you can download and install [https://www.php.net/downloads.php](https://www.php.net/downloads.php).
 
-3. Navigate to the project directory by using:
+3.Navigate to the project directory by using:
 
 ```bash
 cd calculator-web-app
 ```
 
-4. Start a PHP server by using:
+4.Start a PHP server by using:
 
 ```
 php -S localhost:8000
