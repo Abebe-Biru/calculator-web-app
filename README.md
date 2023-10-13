@@ -24,7 +24,7 @@ To set up and run this calculator web app locally, follow these steps:
 git clone https://github.com/Abebe-Biru/calculator-web-app.git
 ```
 
-2.Ensure you have PHP installed on your machine. If you don't, you can download and install [https://www.php.net/downloads.php](https://www.php.net/downloads.php).
+2.Ensure you have PHP installed on your machine. If you don't, you can download and install it from [https://www.php.net/downloads.php](https://www.php.net/downloads.php).
 
 3.Navigate to the project directory by using:
 
